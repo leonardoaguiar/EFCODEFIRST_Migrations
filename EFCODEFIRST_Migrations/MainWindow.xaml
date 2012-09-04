@@ -1,0 +1,8 @@
+﻿<Window x:Class="EFCODEFIRST_Migrations.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="206,80,0,0" Name="lblLog" VerticalAlignment="Top" />
+    </Grid>
+</Window>
